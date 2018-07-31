@@ -1,3 +1,13 @@
+## python 计算近邻
+
+原生python绑定提供的计算近邻方法使用了numpy，
+内存使用过高，因此，
+对源代码做了一些修改，方便使用Python来计算近邻
+
+
+
+以下是原md文档
+
 ## Table of contents
 
 * [Introduction](#introduction)
